@@ -4,4 +4,4 @@ It is mini project on design patterns in java. The basic goal is to make the cho
 
 
 
-It is made by 2 members:- Archit Gupta(me) and Atishay Jain(https://github.com/atishay-atishay-jain)
+It is made by 2 members:- Archit Gupta(https://github.com/architg27) and Atishay Jain(https://github.com/atishay-atishay-jain)
